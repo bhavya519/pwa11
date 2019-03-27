@@ -1,0 +1,44 @@
+{
+  "profile":{
+    "ig":"images/image.png",
+    "name":"Name : K.Bhavya",
+    "designation":"Designation : student",
+    "place":"Place : Hindupur",
+    "mobileno":"Mobile no : 7478458467",
+    "mailid":"Mail-Id : hfjsh@gmail.com"
+  },
+  "careerobjective":{
+    "info":"To seek Challengng Position Where I can Prove My Self"
+  },
+  "educationdetails":
+    [
+      {
+    "qualification":"B-Tech",
+    "institute":"MITS",
+    "percentage":"94.7%",
+    "yop":"2021"
+  },
+  {
+    "qualification":"Intermediate",
+    "institute":"L.R.G",
+    "percentage":"95.6%",
+    "yop":"2017"
+  },
+  {
+    "qualification":"SSC",
+    "institute":"L.R.G",
+    "percentage":"98%",
+    "yop":"2015"
+  }
+],
+"skills":[
+  {
+  "name":"Programming_Languages",
+  "info":["c","c++","java","python"]
+},
+{
+  "name":"web_Technologies",
+  "info":["HTML","CSS","PHP","JS","JSON"]
+}
+]
+}
